@@ -2,7 +2,7 @@ body{
     margin: 0px;
     border-style:solid;
     border-color: green;
-    background-color: darkmagenta;
+    background-color: aqua;
 }
 
 h1{
@@ -20,7 +20,9 @@ p{
     border-color: goldenrod white cadetblue firebrick;
     font-family: monospace;
     color: ivory;
-    width: 25%;
+    width: 20%;
+    font-family: initial;
+    font-size: larger;
 }
 
 html{
