@@ -15,10 +15,14 @@ header{
 }
 .logo{
     display: flex;
-    color: brown;
+    color: crimson;
     align-items: center;
 }
 nav link{
     text-decoration: none;
     color: yellow;
+}
+a:hover{
+    background-color: crimson;
+    color: whitesmoke;
 }
