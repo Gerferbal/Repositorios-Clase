@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+header{
+    display: flex;
+    height: 70px;
+    background-color: rgb(127, 129, 233);
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px;
+}
+.logo img{
+    height: 65px;
+}
+.logo{
+    display: flex;
+    color: rgb(17, 24, 44);
+    align-items: center;
+}
+a:hover{
+    background-color:rgb(17, 24, 44);
+    color: whitesmoke;
+}
+nav.side{
+    border:2px solid;
+    border-color: aqua;
+    border-radius: 15px;
+    margin-right: 80%;
+
+
+
+    background-color: rgb(173, 177, 230);
+}
+div.link{
+    background-color:rgb(17, 24, 44);
+    color: whitesmoke;
+}
+
