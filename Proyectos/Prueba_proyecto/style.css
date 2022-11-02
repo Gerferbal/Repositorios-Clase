@@ -1,0 +1,90 @@
+/*
+body{
+  display: block;
+  width: auto;
+  height: auto;
+  font-family: sans-serif;
+  font-weight: 400;
+  align-items: left;
+}
+.navbar{
+   display: flex;
+   direction: ;
+}
+div.logo-left{
+    display:flex;
+    background-color: blueviolet;
+}
+a.ini{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+a.acerca{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+a.afi{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.cosas{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.docs{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.empecemos{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+    color: gold;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+*/
+div{
+    display:inline-flex; 
+    background-color: aqua;
+    border: dashed;
+    
+}
+p{
+    width: 150%;
+    font-size: larger;
+    font-style: initial;
+    display:inline-flex;
+    
+}
+
+img{
+    width: 50%;
+    height: ;
+}
