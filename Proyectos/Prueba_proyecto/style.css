@@ -1,90 +1,66 @@
-/*
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
 body{
-  display: block;
-  width: auto;
-  height: auto;
-  font-family: sans-serif;
-  font-weight: 400;
-  align-items: left;
+    text-align: center;
+    font-family: sans-serif;
+}
+ol{
+    list-style: none:
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.head{
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-between;
+    height: 70px;
+    background-color: aqua;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
 }
 .navbar{
-   display: flex;
-   direction: ;
+    display: flex;
+    margin-right: 10px;
 }
-div.logo-left{
-    display:flex;
-    background-color: blueviolet;
+.logo{
+    width: 50%;
 }
-a.ini{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-a.acerca{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-a.afi{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-.cosas{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-.docs{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-.empecemos{
-    margin-right: 5px;
-    margin-left: 5px;
-    padding: 5px 10px;
-    color: gold;
-    font-size: 20px;
-    line-height: 20px;
-    text-decoration: none;
-}
-*/
-div{
-    display:inline-flex; 
-    background-color: aqua;
-    border: dashed;
-    
-}
-p{
-    width: 150%;
-    font-size: larger;
-    font-style: initial;
-    display:inline-flex;
-    
+.header{
+    background-color: brown;
 }
 
-img{
-    width: 50%;
-    height: ;
+
+
+
+
+/*
+div.head{
+    border: groove;
+    border-color:crimson;
+    position:;
+    font-size: 160%;
+    font-family: sans-serif;
+    background: url(762343.jpg);
+    display: inline-block;
 }
+img.logo{
+    width: 10%;
+}
+nav.navbar{
+    text-align: right;
+}
+header.header{
+    border: dashed;
+    position:relative;
+}
+*/
