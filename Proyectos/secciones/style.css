@@ -1,7 +1,21 @@
-header{
-    background-color: crimson;
-}
-li{
+li{ 
     list-style: none;
     display: inline;
+    padding: 0px 0px 50px 100px;
+}
+img{
+    width: 30%;
+
+}
+header{
+    height: 10%;
+    background-color: crimson;
+}
+nav{
+    height: 50%;
+    background-color: aqua;
+}
+footer{
+    height: 10%;
+    background-color:gold;
 }
