@@ -1,6 +1,19 @@
-ul{
-    list-style-image:url("imagenes/check-mark-button-emoji.png");
+h1.Titulo mark { 
+    background-color: lightgray;
+    color: ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large; 
+    border-color: crimson;
+    border-style: dashed;
 }
-p{
-    cursor: crosshair;
+dt mark{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
 }
+dd {
+    
+    justify-content: center;
+    color: rgb(0, 17, 255);
+    font-family: sans-serif;
+}Verdana, Geneva, Tahoma, sans-serif
