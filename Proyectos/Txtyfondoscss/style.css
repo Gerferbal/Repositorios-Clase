@@ -9,6 +9,10 @@ span.sups{
     background-color:darkblue;
 }
 spam{
+    background-color: darkgreen;
+    color: antiquewhite;
+}
+span.star{
     background-color: black;
     color: yellow;
 }
