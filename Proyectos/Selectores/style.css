@@ -1,0 +1,22 @@
+body {
+    background-color: lightcoral;
+}
+h1{
+    background-color: black;
+    color: crimson;
+}
+.impares{
+    background-color: aqua;
+}
+.pares{
+    color: green;
+}
+#quinto{
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+ul p{ 
+    font-style:italic;
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+}
